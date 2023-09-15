@@ -1,0 +1,31 @@
+body{
+    background-image:radial-gradient(circle,rgb(113, 201, 192),rgb(139, 172, 186),rgb(31, 29, 31));
+}
+h1{
+    
+    margin:50px;
+}
+.container{
+    text-align: center;
+    border-radius:422px;
+    background-image: linear-gradient(170deg,rgb(111, 147, 180),rgb(203, 97, 102),white);
+    margin:150px 278px;
+    padding:22px 42px;
+    box-shadow:3px,6px,rgb(81, 31, 206);
+}
+#heading{
+    display: inline-block;
+}
+.col{
+    margin:22px 12px;
+    padding:12px 12px;
+}
+label,input{
+    color:rgb(25, 9, 78);
+    font-weight: bold;
+    border-radius: 12px;
+    height:22px;
+}
+label{
+    font-size: 22px;
+}
